@@ -5,6 +5,10 @@ public class MyUserManager {
 
 	public MyDataClass myHomeData=new MyDataClass();
 	public MyDataClass nowLocationData=new MyDataClass();
+	public int startTimeHour;
+	public int curfewTimeHour;
+	public int startTimeMin;
+	public int curfewTimeMin;
 	public static MyUserManager getInstance() {
 		if (instance == null) {
 			instance = new MyUserManager();
