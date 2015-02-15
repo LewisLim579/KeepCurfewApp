@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#B3B3B3"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent"
+    tools:context="com.ewhaapp.keepacurfew.SplashActivity" >
+
+    <ImageView
+        android:layout_marginTop="130dp"
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_title" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_titlelogo" />
+
+</LinearLayout>

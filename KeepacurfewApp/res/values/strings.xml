@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">keepacurfew</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_contact_confirm">ContactConfirmActivity</string>
+    <string name="title_activity_curfew_setting">CurfewSettingActivity</string>
+    <string name="title_activity_set_curfew_time_picker">SetCurfewTimePickerActivity</string>
+    <string name="title_activity_tmap_set_location">TMapSetLocationActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_basic">BasicActivity</string>
+
+</resources>
